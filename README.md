@@ -32,4 +32,4 @@ It demonstrates the concepts of **embedded systems, robotics, and automation**.
 - **Motor Driver** inputs → Arduino digital pins  
 - **Motors** → Motor Driver outputs  
 - **Battery** → Motor Driver + Arduino (Vin)  
--
+
